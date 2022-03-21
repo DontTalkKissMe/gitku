@@ -1,4 +1,4 @@
-veg_price = {'cabbage':2.87,'carrot':1.59,'spinach':3.33,'asparagus':2.54,'artichoke':3.00,'lettuce':2.43}
+veg_price = {'cabbage':2.9,'carrot':1.8,'spinach':3.6,'asparagus':2.94,'artichoke':3.20,'lettuce':2.49}
 order = {'cabbage':2,'artichoke':5}
 
 total = 0
